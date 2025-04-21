@@ -1,2 +1,2 @@
-# hospital-management-bhushan
+# hospital-management-aditya
 Project-Hospital-MAnagement
